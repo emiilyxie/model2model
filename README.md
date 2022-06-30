@@ -1,2 +1,2 @@
 # model2model
-put your input through as many ml models as you want and see what comes out
+what will happen if you put a piece of input through a giant chain of ml models ?
