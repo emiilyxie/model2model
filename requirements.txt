@@ -1,0 +1,11 @@
+transformers
+min-dalle
+dalle-mini
+git+https://github.com/google/flax.git#egg=flax
+jax
+jaxlib
+git+https://github.com/patil-suraj/vqgan-jax.git#egg=vqgan-jax
+sentencepiece
+flask
+flask_cors
+flask-socketio
